@@ -1,0 +1,33 @@
+#index {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(201, 222, 241);
+    color: black;
+}
+
+.ind {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.header {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Courier New', 'monospace';
+    font-weight: bolder;
+    font-size: 46px;
+}
+
+.indul {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
